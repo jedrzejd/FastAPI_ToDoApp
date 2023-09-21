@@ -14,7 +14,7 @@ A FastAPI-based To-Do application built with Python 3.10.
 
     ```bash
     git clone https://github.com/jedrzejd/FastAPI_ToDoApp.git
-    cd ToDoApp
+    cd FastAPI_ToDoApp
     ```
 2. **Set up a virtual environment**:
     
