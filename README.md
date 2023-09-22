@@ -2,6 +2,9 @@
 
 A FastAPI-based To-Do application built with Python 3.10.
 
+link to the hosted app:
+https://todoapp-fy4n.onrender.com
+
 ## Features
 
 - User authentication and registration.
