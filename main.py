@@ -6,6 +6,10 @@ from starlette.staticfiles import StaticFiles
 import models
 from database import engine
 from routers import auth, todos, users
+from dotenv import load_dotenv
+
+
+load_dotenv()
 
 app = FastAPI()
 
